@@ -3,11 +3,23 @@ A simple project to try React
 
 # Getting Started with Create React App
 
+Components uppercase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### 'npm install uuid'
+fontawesome
+### 'npm i --save @fortawesome/fontawesome-svg-core'
+additional icons
+### 'npm i --save @fortawesome/free-solid-svg-icons'
+### 'npm i --save @fortawesome/free-regular-svg-icons'
+### 'npm i --save @fortawesome/free-brands-svg-icons'
+react component
+### 'npm i --save @fortawesome/react-fontawesome@latest'
 
 ### `npm start`
 
