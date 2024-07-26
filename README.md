@@ -1,2 +1,2 @@
-# todolist
-React JS Simple Project
+# to do list
+A simple project to try React
